@@ -1,4 +1,4 @@
-iOS Developer at Goldman Sachs
+
 
 <!---
 TimParkSource/TimParkSource is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
